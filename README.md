@@ -6,7 +6,7 @@
 
 ### Languages
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,csharp,html,css,js" height="48"/>
+    <img src="https://skillicons.dev/icons?i=python,cs,html,css,js" height="48"/>
 </p>
 
 ### Frameworks
