@@ -2,11 +2,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyonshi0104&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+## My page
+[![kyonshi's home](https://kyonshi.com/res/kyonshi's%20home%20dark.png)](https://kyonshi.com/)
+
 ## 🛠 Skills
 
 ### Languages
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,cs,html,css,js" height="48"/>
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,cs" height="48"/>
 </p>
 
 ### Frameworks
