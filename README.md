@@ -3,7 +3,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyonshi0104&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My page
-[![kyonshi's home](https://kyonshi.com/res/kyonshi's%20home%20dark.png)](https://kyonshi.com/)
+<a href="https://kyonshi.com/" target="_blank">
+    <img src="https://kyonshi.com/res/kyonshi's%20home%20dark.png" alt="kyonshi's home">
+</a>
 
 ## 🛠 Skills
 
