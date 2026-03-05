@@ -21,6 +21,6 @@
 
 ### Other Tools
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=windows,github,vscode" height="48"/>
+    <img src="https://skillicons.dev/icons?i=windows,linux,github,git,vscode,discord" height="48"/>
 </p>
 
