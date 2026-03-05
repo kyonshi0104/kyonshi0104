@@ -11,7 +11,7 @@
 
 ### Languages
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,cs" height="48"/>
+    <img src="https://skillicons.dev/icons?i=python,go,html,css,js,cs" height="48"/>
 </p>
 
 ### Frameworks
