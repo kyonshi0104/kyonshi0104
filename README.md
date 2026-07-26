@@ -4,7 +4,7 @@
 
 ## My page
 <a href="https://kyonshi.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/kyonshi0104/old-kyonshi.com/refs/heads/main/res/kyonshi's%20home%20dark.png" alt="kyonshi's home">
+    <img src="https://kyonshi.com/res/imgs/banner.png" alt="kyonshi.com">
 </a>
 
 ## 🛠 Skills
