@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://kyonshi.com/"><img src="https://img.shields.io/badge/Website-kyonshi.com-0078D4?logo=safari&logoColor=white" /></a>
-  <a href="https://note.com/..."><img src="https://img.shields.io/badge/note-kyonshi-41C9B4?logo=note&logoColor=white" /></a>
-  <a href="https://modrinth.com/..."><img src="https://img.shields.io/badge/Modrinth-kyonshi-00AF5C?logo=modrinth&logoColor=white" /></a>
-  <a href="https://bsky.app/..."><img src="https://img.shields.io/badge/Bluesky-kyonshi-0285FF?logo=bluesky&logoColor=white" /></a>
+  <a href="https://note.com/kyonshi0104"><img src="https://img.shields.io/badge/note-kyonshi-41C9B4?logo=note&logoColor=white" /></a>
+  <a href="https://modrinth.com/user/kyonshi0104"><img src="https://img.shields.io/badge/Modrinth-kyonshi-00AF5C?logo=modrinth&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/kyonshi.com"><img src="https://img.shields.io/badge/Bluesky-kyonshi-0285FF?logo=bluesky&logoColor=white" /></a>
 </div>
