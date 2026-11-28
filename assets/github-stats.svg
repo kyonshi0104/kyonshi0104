@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="920" height="259" viewBox="0 0 920 259" role="img" aria-labelledby="card-title card-desc">
   <title id="card-title">Kyonshi&#39;s GitHub Stats</title>
-  <desc id="card-desc">GitHub stats for kyonshi0104: 12 stars, 214 commits, 1 pull requests, 0 issues, contributed to 5 repositories.</desc>
+  <desc id="card-desc">GitHub stats for kyonshi0104: 12 stars, 261 commits, 1 pull requests, 0 issues, contributed to 5 repositories.</desc>
   
     <style>
       
@@ -94,7 +94,7 @@
           <path class="icon" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z" />
         </svg>
         <text x="48" y="139" class="stat-label">Total Commits</text>
-        <text x="272" y="139" text-anchor="end" class="stat-value">214</text>
+        <text x="272" y="139" text-anchor="end" class="stat-value">261</text>
       </g>
       <g class="fade" style="animation-delay: 0.16s">
         <svg x="24" y="156" width="15" height="15" viewBox="0 0 16 16" aria-hidden="true">
@@ -131,50 +131,50 @@
     <rect x="308" y="90" width="304" height="10" rx="5" class="track" />
     <g clip-path="url(#lang-bar-clip)">
       <g class="bar-anim">
-        <rect x="308.00" y="90" width="64.69" height="10" fill="#3572A5" />
-        <rect x="372.69" y="90" width="58.61" height="10" fill="#f1e05a" />
-        <rect x="431.30" y="90" width="40.70" height="10" fill="#3178c6" />
-        <rect x="472.00" y="90" width="39.78" height="10" fill="#b07219" />
-        <rect x="511.78" y="90" width="34.93" height="10" fill="#663399" />
-        <rect x="546.71" y="90" width="27.64" height="10" fill="#e34c26" />
-        <rect x="574.34" y="90" width="37.66" height="10" fill="#8b949e" />
+        <rect x="308.00" y="90" width="61.77" height="10" fill="#3572A5" />
+        <rect x="369.77" y="90" width="55.69" height="10" fill="#f1e05a" />
+        <rect x="425.46" y="90" width="53.56" height="10" fill="#3178c6" />
+        <rect x="479.02" y="90" width="37.73" height="10" fill="#b07219" />
+        <rect x="516.75" y="90" width="33.17" height="10" fill="#663399" />
+        <rect x="549.92" y="90" width="26.47" height="10" fill="#e34c26" />
+        <rect x="576.40" y="90" width="35.60" height="10" fill="#8b949e" />
       </g>
     </g>
     
       <g class="fade" style="animation-delay: 0.12s">
         <circle cx="313.0" cy="134" r="4.5" fill="#3572A5" />
         <text x="324.0" y="138" class="lang-name">Python</text>
-        <text x="450.0" y="138" text-anchor="end" class="lang-pct">21.3%</text>
+        <text x="450.0" y="138" text-anchor="end" class="lang-pct">20.3%</text>
       </g>
       <g class="fade" style="animation-delay: 0.17s">
         <circle cx="465.0" cy="134" r="4.5" fill="#f1e05a" />
         <text x="476.0" y="138" class="lang-name">JavaScript</text>
-        <text x="602.0" y="138" text-anchor="end" class="lang-pct">19.3%</text>
+        <text x="602.0" y="138" text-anchor="end" class="lang-pct">18.3%</text>
       </g>
       <g class="fade" style="animation-delay: 0.22s">
         <circle cx="313.0" cy="163" r="4.5" fill="#3178c6" />
         <text x="324.0" y="167" class="lang-name">TypeScript</text>
-        <text x="450.0" y="167" text-anchor="end" class="lang-pct">13.4%</text>
+        <text x="450.0" y="167" text-anchor="end" class="lang-pct">17.6%</text>
       </g>
       <g class="fade" style="animation-delay: 0.27s">
         <circle cx="465.0" cy="163" r="4.5" fill="#b07219" />
         <text x="476.0" y="167" class="lang-name">Java</text>
-        <text x="602.0" y="167" text-anchor="end" class="lang-pct">13.1%</text>
+        <text x="602.0" y="167" text-anchor="end" class="lang-pct">12.4%</text>
       </g>
       <g class="fade" style="animation-delay: 0.32s">
         <circle cx="313.0" cy="192" r="4.5" fill="#663399" />
         <text x="324.0" y="196" class="lang-name">CSS</text>
-        <text x="450.0" y="196" text-anchor="end" class="lang-pct">11.5%</text>
+        <text x="450.0" y="196" text-anchor="end" class="lang-pct">10.9%</text>
       </g>
       <g class="fade" style="animation-delay: 0.37s">
         <circle cx="465.0" cy="192" r="4.5" fill="#e34c26" />
         <text x="476.0" y="196" class="lang-name">HTML</text>
-        <text x="602.0" y="196" text-anchor="end" class="lang-pct">9.1%</text>
+        <text x="602.0" y="196" text-anchor="end" class="lang-pct">8.7%</text>
       </g>
       <g class="fade" style="animation-delay: 0.42s">
         <circle cx="313.0" cy="221" r="4.5" fill="#8b949e" />
         <text x="324.0" y="225" class="lang-name">Other</text>
-        <text x="450.0" y="225" text-anchor="end" class="lang-pct">12.4%</text>
+        <text x="450.0" y="225" text-anchor="end" class="lang-pct">11.7%</text>
       </g>
   </g>
 
