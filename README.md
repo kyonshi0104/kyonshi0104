@@ -7,11 +7,13 @@
 
 <div align="center">
   <a href="https://kyonshi.com/" target="_blank">
-    <img src="https://kyonshi.com/res/imgs/banner.png" alt="Kyonshi.com" width="460">
+    <img src="./assets/banner.png" alt="Kyonshi.com" width="460">
   </a>
   <br>
   <p>Webアプリ、デスクトップツール、Minecraft Mod、自宅サーバー周りの開発などをしています。</p>
   <img src="https://skillicons.dev/icons?i=go,ts,js,react,vite,tauri,java,python,docker,linux,cloudflare,git,github,vscode" />
+  <br><br>
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
 </div>
 
 ---
